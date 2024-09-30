@@ -3,8 +3,8 @@ local Plugin = {
     ["PluginDescription"] = "Deletes rat!",
     ["Commands"] = {
         ["removerat"] = {
-            ["ListName"] = "monsterESP (Run Every Round Or It Might Delete)",
-            ["Description"] = "Highlights the monsters (Run Every Round)",
+            ["ListName"] = "removerat",
+            ["Description"] = "Deletes rat.",
             ["Aliases"] = {"deleterat"},
             ["Function"] = function(args,speaker)
     workspace.Mouse:Destroy()
