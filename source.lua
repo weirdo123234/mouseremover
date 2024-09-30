@@ -1,8 +1,3 @@
-    workspace.Mouse:Destroy()
-    workspace.NewMouse:Destroy()
-    workspace.NewRatLocation:Destroy()
-    workspace.TeleportPointNewRat:Destroy()
-
 local Plugin = {
     ["PluginName"] = "Cheese Escape Rat Remover",
     ["PluginDescription"] = "Deletes rat!",
